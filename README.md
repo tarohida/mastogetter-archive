@@ -1,5 +1,9 @@
 # mastogetter-archive
 
+[魚拓サイト (megalodon.jp)](https://megalodon.jp/) で魚拓を取得できたものはそのリンクを貼っています。
+
+魚拓サイトでの取得に失敗したものについてはブラウザから手動でコンテンツをダウンロードし、S3 バケットにホストして公開リンクを貼っています。
+
 * [2020-10-01 小林製薬](https://megalodon.jp/2022-0203-2114-02/https://qithub-bot.github.io:443/mastogetter/p.html?i=https://qiitadon.com&t=68ynm_1uns3z5,68ynn_e453p9,68ynn_3cdwr2h,68yno_2mt2pdu,68ynr_4eg5f5h,68ynt_1vtbril)
 * [2020-09-19 Qiitadon 国勢調査](https://s3.ap-northeast-1.amazonaws.com/mastogetter-archive.tarohida/20200919_01/index.html)
 * [2020-04-20 フビキタス](https://megalodon.jp/2022-0203-2143-21/https://qithub-bot.github.io:443/mastogetter/p.html?i=https://qiitadon.com&t=66z2x_fuyu70,66z2x_1y8p34v,66z2x_295pia6,66z2x_39zhsrv,66z2y_26duw09,66z2y_4i1e9u0,66z2z_nprpr0,66z2z_scvyzk,66z2z_1r2edh0,66z2z_2hrk3dl,66z30_4atzxpi,66z31_1w1t7i4,66z31_3lx6pnm,66z32_2szztwm,66z32_4hhlfte,66z33_4cac87,66z33_3iqa8i0,66z34_1y7hhk6,66z35_17cdzve,66z39_w3cmun,66z3f_45zjbp3)
